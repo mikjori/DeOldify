@@ -1,8 +1,8 @@
-fastai==1.0.60
-tensorboardX>=1.6
+fastai
+tensorboardX
 ffmpeg-python
 yt-dlp
-opencv-python>=3.3.0.10
+opencv-python
 Pillow
 tornado
-imgaug==0.2.6
+imgaug
